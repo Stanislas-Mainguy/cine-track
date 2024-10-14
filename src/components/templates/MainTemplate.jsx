@@ -2,21 +2,23 @@ import React from 'react';
 import './MainTemplate.css';
 
 const MainTemplate = ({ children }) => {
-  return (
+    const currentYear = new Date().getFullYear();
+
+    return (
     <div className="main-template">
-      <header className="main-header">
-        <h1>Mon Projet Films et Séries et d'animés</h1>
-      </header>
-      
-      <main className="main-content">
+        <header className="main-header">
+        <h1>Mon Projet Films et Séries et d'Animés</h1>
+        </header>
+        
+        <main className="main-content">
         {children}
-      </main>
-      
-      <footer className="main-footer">
-        <p>© 2024 Mon Projet Films et Séries. Tous droits réservés.</p>
-      </footer>
+        </main>
+        
+        <footer className="main-footer">
+        <p>© {currentYear} Mon Projet Films, Séries et Animés. Tous droits réservés.</p>
+        </footer>
     </div>
-  );
+    );
 };
 
 export default MainTemplate;
