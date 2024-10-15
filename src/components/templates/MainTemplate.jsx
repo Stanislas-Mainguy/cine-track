@@ -1,24 +1,35 @@
 import React from 'react';
 import './MainTemplate.css';
 
-const MainTemplate = ({ children }) => {
-    const currentYear = new Date().getFullYear();
-
-    return (
-        <div className="main-template">
-            <header className="main-header">
-                <h1>Mon Projet Films et Séries et d'Animés</h1>
-            </header>
-            
-            <main className="main-content">
-                {children}
-            </main>
-            
-            <footer className="main-footer">
-                <p>© {currentYear} Mon Projet Films, Séries et Animés. Tous droits réservés.</p>
-            </footer>
+const MainTemplate = ({ children, extraSection }) => {
+  return (
+    <div className="main-template">
+      <header className="main-header">
+        <div className="banner">
+          <h1 className="banner-title">
+            {/* Texte Marvel-like avec jaquettes en arrière-plan */}
+            Mon Projet Films et Séries
+          </h1>
         </div>
-    );
+        {/* Ici sera le menu de navigation plus tard */}
+      </header>
+
+      {/* Section supplémentaire visible uniquement si elle est passée en prop */}
+      {extraSection && (
+        <section className="extra-section">
+          {extraSection}
+        </section>
+      )}
+
+      <main className="main-content">
+        {children}  {/* Contenu qui change selon la page */}
+      </main>
+
+      <footer className="main-footer">
+        <p>© {new Date().getFullYear()} Mon Projet Films et Séries. Tous droits réservés.</p>
+      </footer>
+    </div>
+  );
 };
 
 export default MainTemplate;
