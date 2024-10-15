@@ -1,9 +1,10 @@
-import './App.css';
+import React from 'react';
+import HomePage from './components/pages/homePage/HomePage';
 
 function App() {
   return (
     <div className="App">
-      <h1>Bienvenue sur mon projet de films et séries</h1>
+      <HomePage />
     </div>
   );
 }
