@@ -10,7 +10,7 @@
       "screenwriter": "Yasuko Kobayashi",
       "music": "Hiroyuki Sawano",
       "production_country": "Japon",
-      "seasons": 4,
+      "rating": 3.5,
       "summary": "Eren et ses amis se battent contre des géants qui menacent l'humanité dans un monde post-apocalyptique."
     },
     {
@@ -24,7 +24,7 @@
       "screenwriter": "Toshiki Inoue",
       "music": "Taniuchi Hideki",
       "production_country": "Japon",
-      "seasons": 1,
+      "rating": 4.7,
       "summary": "Un lycéen découvre un cahier qui lui permet de tuer toute personne dont il connaît le nom, et il se met à rendre justice selon sa propre conception."
     },
     {
@@ -38,7 +38,7 @@
       "screenwriter": "Keiko Nobumoto",
       "music": "Yoko Kanno",
       "production_country": "Japon",
-      "seasons": 1,
+      "rating": 4.3,
       "summary": "Les aventures d'une équipe de chasseurs de primes voyageant à travers l'espace dans un futur dystopique."
     },
     {
@@ -52,7 +52,7 @@
       "screenwriter": "Hiroshi Ōnogi",
       "music": "Akira Senju",
       "production_country": "Japon",
-      "seasons": 1,
+      "rating": 4.5,
       "summary": "Les frères Elric cherchent la pierre philosophale pour récupérer leurs corps après un accident d'alchimie."
     },
     {
@@ -66,7 +66,7 @@
       "screenwriter": "Shinichirō Watanabe",
       "music": "Nujabes",
       "production_country": "Japon",
-      "seasons": 1,
+      "rating": 4.6,
       "summary": "Deux samouraïs et une jeune fille voyagent ensemble dans le Japon féodal à la recherche d'un mystérieux samouraï qui sent le tournesol."
     },
     {
@@ -80,7 +80,7 @@
       "screenwriter": "Takao Koyama",
       "music": "Shunsuke Kikuchi",
       "production_country": "Japon",
-      "seasons": 9,
+      "rating": 4.8,
       "summary": "Goku et ses amis protègent la Terre contre des menaces extraterrestres, des super-vilains et des créatures puissantes."
     },
     {
@@ -94,7 +94,7 @@
       "screenwriter": "Yasushi Hirano",
       "music": "Shunsuke Kikuchi",
       "production_country": "Japon",
-      "seasons": 5,
+      "rating": 4.2,
       "summary": "Le jeune Goku part à l'aventure pour trouver les Dragon Balls, tout en affrontant de puissants ennemis."
     },
     {
@@ -108,7 +108,7 @@
       "screenwriter": "Gen Urobuchi",
       "music": "Yugo Kanno",
       "production_country": "Japon",
-      "seasons": 3,
+      "rating": 4.7,
       "summary": "Dans un futur où les esprits des citoyens peuvent être scannés pour détecter leur propension à commettre des crimes, une équipe d'enquêteurs traque les criminels."
     },
     {
@@ -122,7 +122,7 @@
       "screenwriter": "Tow Ubukata",
       "music": "Yugo Kanno",
       "production_country": "Japon",
-      "seasons": 1,
+      "rating": 4.7,
       "summary": "La suite des aventures d'Akane Tsunemori dans un monde où les criminels potentiels sont arrêtés avant d'avoir commis leurs actes."
     },
     {
@@ -136,7 +136,7 @@
       "screenwriter": "Tatsuhiko Urahata",
       "music": "Kuniaki Haishima",
       "production_country": "Japon",
-      "seasons": 1,
+      "rating": 4.8,
       "summary": "Un médecin traque un tueur en série qu'il a sauvé des années auparavant, tout en découvrant une conspiration de grande ampleur."
     }
   ]

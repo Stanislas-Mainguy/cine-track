@@ -10,7 +10,7 @@
       "screenwriter": ["Patrick McKay", "John D. Payne"],
       "music": "Bear McCreary",
       "production_country": "États-Unis",
-      "seasons": 1,
+      "rating": 4.5,
       "summary": "Des événements se déroulant des milliers d'années avant la trilogie du Seigneur des anneaux."
     },
     {
@@ -24,21 +24,21 @@
       "screenwriter": "Alan Ball",
       "music": "Nathan Barr",
       "production_country": "États-Unis",
-      "seasons": 7,
+      "rating": 4,
       "summary": "Dans une petite ville de Louisiane, des vampires cohabitent avec des humains grâce à un substitut de sang créé par des scientifiques."
     },
     {
       "id": 3,
       "title": "Oz",
       "year": 1997,
-      "categories": ["Drame", "Crime"],
+      "categories": ["Drame", "Thriller"],
       "actors": ["Ernie Hudson", "Harold Perrineau", "Eamonn Walker"],
       "producer": "Tom Fontana",
       "image": "oz_series.jpg",
       "screenwriter": "Tom Fontana",
       "music": "David Darlington",
       "production_country": "États-Unis",
-      "seasons": 6,
+      "rating": 4.3,
       "summary": "Le quotidien des détenus de la prison Oswald Maximum Security Correctional Facility."
     },
     {
@@ -52,21 +52,21 @@
       "screenwriter": "Rafe Judkins",
       "music": "Lorne Balfe",
       "production_country": "États-Unis",
-      "seasons": 2,
+      "rating": 4,
       "summary": "Moiraine guide cinq jeunes hommes et femmes dans une quête pour découvrir qui d'entre eux est la réincarnation du Dragon, une entité puissante."
     },
     {
       "id": 5,
       "title": "Breaking Bad",
       "year": 2008,
-      "categories": ["Drame", "Crime"],
+      "categories": ["Drame", "Thriller"],
       "actors": ["Bryan Cranston", "Aaron Paul"],
       "producer": "Vince Gilligan",
       "image": "breaking_bad.jpg",
       "screenwriter": "Vince Gilligan",
       "music": "Dave Porter",
       "production_country": "États-Unis",
-      "seasons": 5,
+      "rating": 4.8,
       "summary": "Un professeur de chimie devient un baron de la drogue après avoir été diagnostiqué d'un cancer en phase terminale."
     },
     {
@@ -80,7 +80,7 @@
       "screenwriter": ["David Benioff", "D.B. Weiss"],
       "music": "Ramin Djawadi",
       "production_country": "États-Unis",
-      "seasons": 8,
+      "rating": 4.3,
       "summary": "Des familles nobles se disputent le contrôle du Trône de Fer dans un royaume fantastique."
     },
     {
@@ -94,7 +94,7 @@
       "screenwriter": "Craig Mazin",
       "music": "Hildur Guðnadóttir",
       "production_country": "États-Unis",
-      "seasons": 1,
+      "rating": 4.7,
       "summary": "Une reconstitution des événements entourant la catastrophe nucléaire de Tchernobyl en 1986."
     },
     {
@@ -108,21 +108,21 @@
       "screenwriter": ["Duffer Brothers"],
       "music": "Kyle Dixon, Michael Stein",
       "production_country": "États-Unis",
-      "seasons": 4,
+      "rating": 4.6,
       "summary": "Un groupe d'enfants enquête sur des événements surnaturels dans une petite ville, y compris la disparition d'un de leurs amis."
     },
     {
       "id": 9,
       "title": "Better Call Saul",
       "year": 2015,
-      "categories": ["Drame", "Crime"],
+      "categories": ["Drame", "Thriller"],
       "actors": ["Bob Odenkirk", "Jonathan Banks"],
       "producer": "Vince Gilligan",
       "image": "better_call_saul.jpg",
       "screenwriter": "Vince Gilligan",
       "music": "Dave Porter",
       "production_country": "États-Unis",
-      "seasons": 6,
+      "rating": 4.5,
       "summary": "La série retrace la transformation de Jimmy McGill, un avocat ordinaire, en Saul Goodman, l'avocat véreux de 'Breaking Bad'."
     },
     {
@@ -136,7 +136,7 @@
       "screenwriter": "Michael Hirst",
       "music": "Trevor Morris",
       "production_country": "Canada",
-      "seasons": 6,
+      "rating": 4.2,
       "summary": "Les aventures du légendaire Ragnar Lothbrok, un des plus célèbres héros nordiques de l'histoire."
     }
   ]

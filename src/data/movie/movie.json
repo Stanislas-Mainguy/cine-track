@@ -11,6 +11,7 @@
       "music": "Howard Shore",
       "production_country": "Nouvelle-Zélande",
       "duration": 178,
+      "rating": 5,
       "summary": "Frodon Sacquet hérite d'un anneau magique, mais il découvre qu'il s'agit de l'Anneau Unique, capable de détruire le monde."
     },
     {
@@ -25,6 +26,7 @@
       "music": "Howard Shore",
       "production_country": "Nouvelle-Zélande",
       "duration": 179,
+      "rating": 5,
       "summary": "La communauté de l'anneau est dissoute. Frodon et Sam continuent leur voyage vers le Mordor, tandis qu'Aragorn, Legolas et Gimli poursuivent les Uruk-hai."
     },
     {
@@ -39,6 +41,7 @@
       "music": "Howard Shore",
       "production_country": "Nouvelle-Zélande",
       "duration": 201,
+      "rating": 5,
       "summary": "Gollum guide Frodon et Sam vers le Mordor tandis qu'Aragorn mène la bataille pour sauver Gondor et détruire Sauron."
     },
     {
@@ -53,6 +56,7 @@
       "music": "Howard Shore",
       "production_country": "Nouvelle-Zélande",
       "duration": 169,
+      "rating": 4.5,
       "summary": "Bilbo Baggins se lance dans une quête inattendue avec une compagnie de nains pour récupérer Erebor du dragon Smaug."
     },
     {
@@ -67,6 +71,7 @@
       "music": "Howard Shore",
       "production_country": "Nouvelle-Zélande",
       "duration": 161,
+      "rating": 4.5,
       "summary": "Bilbo et les nains poursuivent leur quête pour atteindre Erebor, mais ils doivent affronter de nombreux dangers, notamment le dragon Smaug."
     },
     {
@@ -81,6 +86,7 @@
       "music": "Howard Shore",
       "production_country": "Nouvelle-Zélande",
       "duration": 144,
+      "rating": 4.7,
       "summary": "Bilbo et les nains doivent se préparer pour la bataille finale contre des forces ennemies convergeant sur la Montagne Solitaire."
     },
     {
@@ -95,13 +101,14 @@
       "music": "Mark Mancina",
       "production_country": "États-Unis",
       "duration": 122,
+      "rating": 4.8,
       "summary": "Jake Hoyt, une nouvelle recrue de la police de Los Angeles, se retrouve sous la tutelle du sergent-chef Alonzo Harris pour une évaluation de 24 heures."
     },
     {
       "id": 8,
       "title": "Usual Suspects",
       "year": 1995,
-      "categories": ["Crime", "Mystère", "Thriller"],
+      "categories": ["Mystère", "Thriller"],
       "actors": ["Kevin Spacey", "Gabriel Byrne", "Chazz Palminteri"],
       "producer": "Bryan Singer",
       "image": "usual_suspects.jpg",
@@ -109,6 +116,7 @@
       "music": "John Ottman",
       "production_country": "États-Unis",
       "duration": 106,
+      "rating": 4.8,
       "summary": "Un mystérieux baron du crime manipule un groupe de criminels pour réaliser un cambriolage désastreux."
     },
     {
@@ -123,6 +131,7 @@
       "music": "Thomas Newman",
       "production_country": "États-Unis",
       "duration": 189,
+      "rating": 4.8,
       "summary": "Un gardien de prison découvre les pouvoirs surnaturels d'un détenu condamné à mort et se demande s'il peut empêcher une injustice."
     }
   ]
