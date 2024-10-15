@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "title": "Training Day",
+      "year": 2001,
+      "categories": ["Action", "Policier", "Thriller"],
+      "actors": ["Denzel Washington", "Ethan Hawke", "Tom Berenger", "Scott Glenn"],
+      "producer": "Antoine Fuqua",
+      "image": "trainingDay.jpg",
+      "screenwriter": "David Ayer",
+      "music": "Mark Mancina",
+      "production_country": "États-Unis",
+      "duration": 122,
+      "summary": "Jake Hoyt est une nouvelle recrue de la police de Los Angeles. Décidé à devenir inspecteur, il sollicite une mise à l'essai de 24 heures auprès du sergent-chef Alonzo Harris, un vétéran de la lutte antidrogue qui opère depuis douze ans dans les quartiers les plus chauds de la ville."
+    }
+  ]
+  
